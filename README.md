@@ -58,7 +58,7 @@ Substantial and destroyed engine damage are most commonly linked to fatal outcom
 Box plot of flight phases vs. fatal accident ratio  
 Takeoff and landing phases have the highest proportion of fatal accidents.
 
-![Phase of Flight vs Fatal Risk](./vizualization%20images/phase%20vs%20fatal.png)
+![Phase of Flight vs Fatal Risk](./vizualization%20images/phase%20of%20flight%20vs%20fatal%20injuries.png)
 
 ##  Conclusion
 
