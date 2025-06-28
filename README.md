@@ -43,17 +43,19 @@ The dataset includes:
 ###  Visualizations
 
 #### 1.  Fatal Accidents Over Time
-> **Chart:** Line chart of number of fatal accidents per year  
+>Line chart of number of fatal accidents per year  
  Fatal accidents have generally decreased over the decades, especially after 2000.
+ (./vizualization images\fatalities per year.png)
 
-#### 2.  Aircraft Damage vs. Fatal Accidents
-> **Chart:** Bar chart comparing aircraft damage types with fatality counts  
-> **Insight:** Substantial and destroyed aircraft damage are most commonly linked to fatal outcomes.
+#### 2.  Engine types vs. Fatal Accidents
+> Scatterplot comparing engine types with fatality counts  
+> Substantial and destroyed engine damage are most commonly linked to fatal outcomes.
+(final-project-phase-one\vizualization images\engines vs fatal damages.png)
 
 #### 3.  Phase of Flight vs. Fatal Risk
-> **Chart:** Bar chart of flight phases vs. fatal accident ratio  
-> **Insight:** Takeoff and landing phases have the highest proportion of fatal accidents.
-
+> Box plot of flight phases vs. fatal accident ratio  
+> Takeoff and landing phases have the highest proportion of fatal accidents.
+ 
 >
 
 ##  Conclusion
@@ -86,7 +88,7 @@ aviation-risk-project/
 ├── presentation.pdf
 ├── student.ipynb
 ├── notebook.pdf
-├── cleaned\_data.csv
+├── cleaneddata.csv
 ├── Tableau\_Screenshots/
 │   ├── fatal\_over\_time.png
 │   ├── damage\_vs\_fatal.png
