@@ -60,6 +60,7 @@ Takeoff and landing phases have the highest proportion of fatal accidents.
 
 ![Phase of Flight vs Fatal Risk](./vizualization%20images/phase%20of%20flight%20vs%20fatal%20injuries.png)
 
+
 ##  Conclusion
 
 ### Summary of Key Findings
