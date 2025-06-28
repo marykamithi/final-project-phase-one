@@ -62,7 +62,7 @@ Takeoff and landing phases have the highest proportion of fatal accidents.
 
 ##  Conclusion
 
-### 📌 Summary of Key Findings
+### Summary of Key Findings
 
 - **Aircraft Damage:** Fatalities are strongly associated with substantial or destroyed damage.
 - **Flight Phases:** Takeoff, en-route, and landing are the most critical phases for fatal risks.
@@ -71,64 +71,10 @@ Takeoff and landing phases have the highest proportion of fatal accidents.
 These insights support  decisions in aircraft selection and flight safety planning.
 
 
-## 📜 Commit History
-
-- Maintained a clean and consistent commit history throughout the project.
-- Each commit includes clear messages such as:
-  - `Initial EDA and null handling`
-  - `Created is_fatal column`
-  - `Added visualizations for phase of flight`
-  - `Finalized Tableau dashboards`
 
 
 
-##  Organization
 
-aviation-risk-project/
-├── README.md
-├── .gitignore
-├── presentation.pdf
-├── student.ipynb
-├── notebook.pdf
-├── cleaneddata.csv
-├── Tableau\_Screenshots/
-│   ├── fatal\_over\_time.png
-│   ├── damage\_vs\_fatal.png
-│   └── phase\_vs\_fatal.png
-└── dashboard\_link.txt
-
-
-
-##  Notebook(s)
-
-- **Final Notebook:** `student.ipynb` — includes cleaned dataset, EDA, feature engineering, and visualizations
-- **Cleaned Notebook** `cleaned.csv` - the cleande data
-
-
-
-## 🚫 .gitignore
-
-Custom `.gitignore` file includes:
-```
-
-.DS\_Store
-.ipynb\_checkpoints/
-\*.csv
-\*.png
-\*.zip
-.env
-**pycache**/
-
-```
-
-> Based on GitHub’s [Python .gitignore](https://github.com/github/gitignore/blob/main/Python.gitignore) with project-specific additions.
-
----
-
-## 📎 Extras
-
--  Tableau Dashboard :  
-  [https://public.tableau.com/app/profile/mary.kamithi/viz/Aviationdata_17509279068140/Dashboard1]
 
 
 
