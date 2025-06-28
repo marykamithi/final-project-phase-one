@@ -62,7 +62,7 @@ Takeoff and landing phases have the highest proportion of fatal accidents.
 
 ##  Conclusion
 
-### 📌 Summary of Key Findings
+### Summary of Key Findings
 
 - **Aircraft Damage:** Fatalities are strongly associated with substantial or destroyed damage.
 - **Flight Phases:** Takeoff, en-route, and landing are the most critical phases for fatal risks.
