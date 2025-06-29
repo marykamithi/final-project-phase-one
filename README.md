@@ -48,11 +48,11 @@ Fatal accidents have generally decreased over the decades, especially after 2000
 
 ![Fatal Accidents Over Time](./vizualization%20images/fatalities%20per%20year.png)
 
-#### 2.  Engine types vs. Fatal Accidents
-Scatterplot comparing engine types with fatality counts  
+#### 2.  Number of engines s vs. Fatal Accidents
+Scatterplot comparing number of engines with fatality counts  
 Substantial and destroyed engine damage are most commonly linked to fatal outcomes.
 
-![Engine Types vs Fatal Accidents](./vizualization%20images/engines%20vs%20fatal%20damages.png)
+![Number of engines vs Fatal Accidents](./vizualization%20images/engines%20vs%20fatal%20damages.png)
 
 #### 3.  Phase of Flight vs. Fatal Risk
 Box plot of flight phases vs. fatal accident ratio  
@@ -67,7 +67,7 @@ Takeoff and landing phases have the highest proportion of fatal accidents.
 
 - **Aircraft Damage:** Fatalities are strongly associated with substantial or destroyed damage.
 - **Flight Phases:** Takeoff, en-route, and landing are the most critical phases for fatal risks.
-- **Trend Over Time:** Overall, aviation accidents—especially fatal ones—have declined over the last two decades.
+- **Trend Over Time:** Overall, aviation accidents especially fatal ones have declined over the last two decades.
 
 These insights support  decisions in aircraft selection and flight safety planning.
 
